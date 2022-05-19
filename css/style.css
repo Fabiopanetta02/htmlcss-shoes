@@ -40,6 +40,10 @@ h2{
   background-color: var(--red);
 }
 
+.bg.bg-green{
+  background-color: var(--green);
+}
+
 .img-descr{
   width: 800px;
   position: absolute;
