@@ -18,11 +18,18 @@ body{
 }
 
 h2{
-  color: var(--yellow);
   text-align: center;
   font-size: 60px;
   font-weight: bold;
   word-spacing: 28px;
+}
+
+.text-yellow{
+  color: var(--yellow);
+}
+
+.text-green{
+  color: var(--green);
 }
 
 /* Utils */
@@ -42,6 +49,10 @@ h2{
 
 .bg.bg-green{
   background-color: var(--green);
+}
+
+.bg.bg-yellow{
+  background-color: var(--yellow);
 }
 
 .img-descr{
