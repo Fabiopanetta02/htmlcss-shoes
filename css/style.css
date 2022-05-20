@@ -31,9 +31,9 @@ body{
 
 h2{
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: bold;
-  word-spacing: 28px;
+  word-spacing: 15px;
   margin-top: 20px;
 }
 
@@ -54,7 +54,7 @@ h2{
 li{
   display: inline-block;
   list-style-type: none;
-  font-size: 40px;
+  font-size: 30px;
   margin-left: 40px;
 }
 
